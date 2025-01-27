@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Nikitha9908/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Nikitha9908/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Nikitha9908/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Nikitha9908/leetcode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Nikitha9908/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Nikitha9908/leetcode/tree/master/0046-permutations) |
 ## Math
 |  |
 | ------- |
