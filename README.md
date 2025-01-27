@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Nikitha9908/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Nikitha9908/leetcode/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Nikitha9908/leetcode/tree/master/0040-combination-sum-ii) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Nikitha9908/leetcode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Nikitha9908/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
