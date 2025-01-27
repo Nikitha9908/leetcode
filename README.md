@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Nikitha9908/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Nikitha9908/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Nikitha9908/leetcode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Nikitha9908/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Nikitha9908/leetcode/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Nikitha9908/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Nikitha9908/leetcode/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
