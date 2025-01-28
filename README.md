@@ -52,9 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Nikitha9908/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Nikitha9908/leetcode/tree/master/0044-wildcard-matching) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nikitha9908/leetcode/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Nikitha9908/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
