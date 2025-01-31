@@ -1,29 +1,28 @@
+from collections import Counter
+
 class Solution:
     def permuteUnique(self, nums):
-        result = []
-        nums.sort()  # Sort the input to handle duplicates easily
-        
-        def backtrack(path, used):
-            # Base case: if the path has the same length as nums, it's a valid permutation
+        def backtrack(path, counter):
             if len(path) == len(nums):
-                result.append(path[:])  # Append a copy of the current path
+                result.append(path[:])
                 return
             
-            for i in range(len(nums)):
-                # Skip the used elements or duplicates (check adjacent duplicates)
-                if used[i] or (i > 0 and nums[i] == nums[i-1] and not used[i-1]):
-                    continue
-                
-                # Choose the current element and recurse
-                used[i] = True
-                backtrack(path + [nums[i]], used)
-                used[i] = False  # Backtrack
-                
-        used = [False] * len(nums)  # To track the usage of elements
-        backtrack([], used)
+            for num in counter:
+                if counter[num] > 0:
+                    path.append(num)
+                    counter[num] -= 1
+                    backtrack(path, counter)
+                    path.pop()
+                    counter[num] += 1
+        
+        result = []
+        counter = Counter(nums)
+        backtrack([], counter)
         return result
 
-# Example test cases
-sol = Solution()
-print(sol.permuteUnique([1, 1, 2]))  # Output: [[1, 1, 2], [1, 2, 1], [2, 1, 1]]
-print(sol.permuteUnique([1, 2, 3]))  # Output: [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]]
+# Example Usage
+solution = Solution()
+nums1 = [1,1,2]
+nums2 = [1,2,3]
+print(solution.permuteUnique(nums1))
+print(solution.permuteUnique(nums2))
