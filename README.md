@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikitha9908/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nikitha9908/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Nikitha9908/leetcode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Nikitha9908/leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikitha9908/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nikitha9908/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nikitha9908/leetcode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Nikitha9908/leetcode/tree/master/0066-plus-one) |
 ## Simulation
 |  |
 | ------- |
