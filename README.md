@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nikitha9908/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nikitha9908/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Nikitha9908/leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Nikitha9908/leetcode/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nikitha9908/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Nikitha9908/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Nikitha9908/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Nikitha9908/leetcode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Nikitha9908/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Nikitha9908/leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikitha9908/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Nikitha9908/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
