@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nikitha9908/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Nikitha9908/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Nikitha9908/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Nikitha9908/leetcode/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nikitha9908/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Nikitha9908/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Nikitha9908/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Nikitha9908/leetcode/tree/master/0068-text-justification) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Nikitha9908/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Nikitha9908/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Nikitha9908/leetcode/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |
